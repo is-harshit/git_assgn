@@ -43,3 +43,5 @@ def calculator():
             print("Invalid input. Please enter a valid operation.")
 
 calculator()
+
+print("NEW LINE")
